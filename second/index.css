@@ -1,0 +1,74 @@
+h1 {
+    width: 95%;
+    height: 27vh;
+    border: 5px solid black;
+    margin: auto;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.purpleBox {
+    display: inline-block;
+    background-color: #A91DDD;
+    height: 18vh;
+    width: 6vh;
+    margin-top: 7vh;
+}
+
+.greenBox {
+    display: inline-block;
+    width: 50vh;
+    height: 25vh;
+    margin: 0;
+    margin-left: 50px;
+    background-color: #2A960E;
+}
+
+.blueCircle {
+    display: inline-block;
+    border-radius: 50%;
+    margin: 0px;
+    margin-left: 50px;
+    background-color: #94D0E3;
+    height: 25vh;
+    width: 25vh;
+}
+
+h2 {
+    border: 5px dotted black;
+    height: 40vh;
+    width: 95%;
+    margin: auto;
+}
+
+.yellowBox {
+    display: inline-block;
+    width: 90%;
+    height: 60%;
+    margin: 3.5vw 4.5vw;
+    background-color: #FCFCC8;
+    box-shadow: 10px 10px 10px #414040;
+}
+
+
+h3 {
+    margin: auto;
+    margin: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 28vh;
+    width: 40%;
+    font-size: 2em;
+    letter-spacing: 10px;
+    padding: 30px;
+    border: 1px solid gray;
+    box-shadow: 5px 5px 5px #929292;
+}
+
+h3 .helloFriends {
+    color: #0A1770;
+    text-align: center;
+    margin-top: 11vh;
+}
+
+
